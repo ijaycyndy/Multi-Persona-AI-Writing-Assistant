@@ -70,7 +70,7 @@ planner_feedback
 
 combined_feedback
 
-##This allows comparison of:
+## This allows comparison of:
 tone differences
 
 structure differences
