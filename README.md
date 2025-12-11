@@ -26,7 +26,7 @@ Consolidated Feedback Output
    - save all results into a small dataset for analysis
 
 
-#Overview
+## Overview
 
 Most writing assistants use a single AI system. This project explores how feedback quality changes when multiple AI personas — each with a different role — work together.
 The prototype simulates a small-scale, research-style experiment aligned with the AI for Education.
@@ -43,7 +43,7 @@ Planner – suggests improved structure and idea flow
 
 Combined – integrates the feedback of all personas
 
-What the Notebook Demonstrates
+## What the Notebook Demonstrates
 
 ✔ Running feedback sessions for each persona
 ✔ Simulating a multi-persona orchestration loop
@@ -92,7 +92,7 @@ improvement suggestions
 
 which persona is most useful for which type of learner
 
-Why This Project Matters-
+## Why This Project Matters-
 
 This project demonstrates:
 
