@@ -3,20 +3,24 @@
 
 A research prototype exploring how multiple AI personas can collaborate to provide structured writing feedback for learners.
 
+## System Overview
+Student Essay
+↓
++-----------------------------+
+| Persona 1: Critic |
+| Persona 2: Explainer |
+| Persona 3: Planner |
+| Persona 4: Supporter |
++-----------------------------+
+↓
+Orchestration Layer
+↓
+Consolidated AI Feedback
 
 ## Open in Google Colab  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ijaycyndy/Multi-Persona-AI-Writing-Assistant/blob/main/multi_persona_writing_assistant.ipynb)
 
-Student Essay
-      ↓
-Multiple AI Personas (Critic, Explainer, Planner, Supporter)
-      ↓
-Orchestration Logic
-      ↓
-Consolidated Feedback Output
-
 ## How to Run This Notebook
-
 1. Click **Open in Google Colab** above.
 2. Go to **Runtime → Run all**.
 3. Add your own OpenAI API key when prompted (the notebook will not expose your key).
@@ -25,9 +29,7 @@ Consolidated Feedback Output
    - combine their responses  
    - save all results into a small dataset for analysis
 
-
 ## Overview
-
 Most writing assistants use a single AI system. This project explores how feedback quality changes when multiple AI personas — each with a different role — work together.
 The prototype simulates a small-scale, research-style experiment aligned with the AI for Education.
 
@@ -93,7 +95,6 @@ improvement suggestions
 which persona is most useful for which type of learner
 
 ## Why This Project Matters
-
 This project demonstrates:
 
 basic multi-agent collaboration
