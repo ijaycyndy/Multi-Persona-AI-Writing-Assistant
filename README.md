@@ -92,7 +92,7 @@ improvement suggestions
 
 which persona is most useful for which type of learner
 
-## Why This Project Matters-
+## Why This Project Matters
 
 This project demonstrates:
 
