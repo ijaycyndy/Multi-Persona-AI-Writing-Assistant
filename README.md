@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ijaycyndy/Multi-Persona-AI-Writing-Assistant/blob/main/multi_persona_ai_writing_assistant.ipynb)
+
+
 Multi-Persona AI Writing Assistant
 
 A research prototype exploring how multiple AI personas can collaborate to provide structured writing feedback for learners.
