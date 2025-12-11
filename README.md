@@ -1,5 +1,19 @@
+
+## Multi-Persona AI Writing Assistant
+
+A research prototype exploring how multiple AI personas can collaborate to provide structured writing feedback for learners.
+
+
 ## Open in Google Colab  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ijaycyndy/Multi-Persona-AI-Writing-Assistant/blob/main/multi_persona_writing_assistant.ipynb)
+
+Student Essay
+      ↓
+Multiple AI Personas (Critic, Explainer, Planner, Supporter)
+      ↓
+Orchestration Logic
+      ↓
+Consolidated Feedback Output
 
 ## How to Run This Notebook
 
@@ -11,11 +25,6 @@
    - combine their responses  
    - save all results into a small dataset for analysis
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Multi-Persona AI Writing Assistant
-
-A research prototype exploring how multiple AI personas can collaborate to provide structured writing feedback for learners.
 
 Overview
 
