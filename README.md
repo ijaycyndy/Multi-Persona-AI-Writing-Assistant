@@ -59,7 +59,7 @@ feedback_results.csv – Saved feedback results for 2 sample essays
 
 README.md – Project description
 
-##Each essay receives 5 feedback outputs:
+## Each essay receives 5 feedback outputs:
 critic_feedback
 
 explainer_feedback
