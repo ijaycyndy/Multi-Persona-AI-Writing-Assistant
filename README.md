@@ -34,7 +34,7 @@ feedback_results.csv – Saved feedback results for 2 sample essays
 
 README.md – Project description
 
-How to Use
+How to Use:
 
 Open the notebook in Google Colab
 
