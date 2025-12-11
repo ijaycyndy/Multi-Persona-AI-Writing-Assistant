@@ -52,28 +52,14 @@ Combined – integrates the feedback of all personas
 ✔ Evaluating feedback along simple dimensions (clarity, structure, argument strength)
 ✔ Creating a small dataset of persona outputs for analysis
 
-Files in This Repository
-
+##Files in This Repository
 multi_persona_ai_writing_assistant.ipynb – Full Colab notebook
 
 feedback_results.csv – Saved feedback results for 2 sample essays
 
 README.md – Project description
 
-How to Use:
-
-Open the notebook in Google Colab
-
-Add your OpenAI API key
-
-Run the cells to generate persona-level and combined feedback
-
-Export results and analyse patterns
-
-Example Output (Simplified)
-
-Each essay receives 5 feedback outputs:
-
+##Each essay receives 5 feedback outputs:
 critic_feedback
 
 explainer_feedback
@@ -84,8 +70,7 @@ planner_feedback
 
 combined_feedback
 
-This allows comparison of:
-
+##This allows comparison of:
 tone differences
 
 structure differences
