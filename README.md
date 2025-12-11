@@ -13,7 +13,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Multi-Persona AI Writing Assistant
+## Multi-Persona AI Writing Assistant
 
 A research prototype exploring how multiple AI personas can collaborate to provide structured writing feedback for learners.
 
