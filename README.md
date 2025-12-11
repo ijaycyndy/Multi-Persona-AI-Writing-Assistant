@@ -1,7 +1,17 @@
 ## Open in Google Colab  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ijaycyndy/Multi-Persona-AI-Writing-Assistant/blob/main/multi_persona_writing_assistant.ipynb)
 
+## How to Run This Notebook
 
+1. Click **Open in Google Colab** above.
+2. Go to **Runtime → Run all**.
+3. Add your own OpenAI API key when prompted (the notebook will not expose your key).
+4. The notebook will:
+   - generate feedback from multiple AI personas  
+   - combine their responses  
+   - save all results into a small dataset for analysis
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Multi-Persona AI Writing Assistant
 
